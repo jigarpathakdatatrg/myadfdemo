@@ -1,0 +1,9 @@
+{
+	"name": "jp-data-factory1111",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1b7d9eb-264e-4348-a382-cf50e4586281",
+		"tenantId": "f205558d-6e20-424d-a24b-1498e004284e"
+	}
+}
